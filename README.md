@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Racheal253
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Sql and PowerBI for Data Analysis
+- 👀 I’m a Data Analyst
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me rachealokwelum@gmail.com, https://www.linkedin.com/in/racheal-opene-a958b6206
 
